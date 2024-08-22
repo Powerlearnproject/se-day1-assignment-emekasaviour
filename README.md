@@ -12,9 +12,12 @@ Identify and describe at least three key milestones in the evolution of software
 Software engineering evolution was first practiced as an art to engineering principle, in the early stage it was considered as programming by intuition till around 1960 where structured programming and use of flow chart to represent algorithm was created then fast forward to 1968 where the name was first coin in conference, after that in 1980 object oriented programming was introduced and led to agile software development methodology to emphasize responsiveness and flexibility 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+Water fall life cycle is straight forward method of software development which is usually applied in a small project, 
+Second is ittrative method which apply a new version to the already existing version in a software development based on review 
+Third is agile method which combine the ittrative and incremental method to make changes at the middle of the project and it's considered the best approach because it avert cost of starting afresh.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Water fall could be used in a small project better, while agile could work better in a large project, while the result in water falls in known, in agile the end result is not available, and agile make use of the customer to give feedback on the result while it's not so in waterfall 
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
