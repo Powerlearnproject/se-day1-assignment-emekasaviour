@@ -7,6 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 It is application of engineering principle in development of software technology like web applications, mobile applications using a programming language. 
 The importance are safe cost, save time of project delivering, reduce complexity 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 Software engineering evolution was first practiced as an art to engineering principle, in the early stage it was considered as programming by intuition till around 1960 where structured programming and use of flow chart to represent algorithm was created then fast forward to 1968 where the name was first coin in conference, after that in 1980 object oriented programming was introduced and led to agile software development methodology to emphasize responsiveness and flexibility 
 
