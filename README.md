@@ -22,6 +22,7 @@ Water fall could be used in a small project better, while agile could work bette
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Software develop design and build while quality assurance is required to give review and overall operations functions to see that the software is OK, lastly the project manager is the overseer, he organize, plan and execute the software for effective usage. 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
